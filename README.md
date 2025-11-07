@@ -9,6 +9,7 @@
   </style>
 <style>
   #seagull {
+    height: 396px;
   background-image: linear-gradient(-90deg, blue, navy, black);
     background-color: navy;
   }
