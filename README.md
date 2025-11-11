@@ -25,7 +25,7 @@
     }
   
 </style>
-<img src ="https://github.com/user-attachments/assets/fd9429bd-8513-46fd-9fc7-8126dbd5fe99"/>
+<img id="penguin" width="400" alt="penguin" src ="https://github.com/user-attachments/assets/fd9429bd-8513-46fd-9fc7-8126dbd5fe99"/>
 </section>
   
   <img id="seagull" width="560" height="396" alt="seagull" src="https://github.com/user-attachments/assets/f9bc7675-3bb5-49ca-a2dd-ed4fa0f71329" />
