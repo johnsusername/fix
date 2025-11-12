@@ -26,12 +26,13 @@
   
 </style>
  <img src ="https://github.com/user-attachments/assets/30875f9d-ba7d-491c-a2ba-957a7de99e75"/>
-<img src =""/>
+<img src ="https://github.com/user-attachments/assets/eba3eac9-2cf0-4005-b059-dfa98832a527"/>
 <img width="160" height="160" alt="tic-tac-toe" src="https://github.com/user-attachments/assets/b6dca21e-aece-45b1-82fb-6c74c2bd6cfe" />
-
+<img src ="https://github.com/user-attachments/assets/1f998b34-2b42-4ab8-81ce-195bcfce8665"/>
 <img id="penguin" width="560"  height="400" alt="penguin" src ="https://github.com/user-attachments/assets/fd9429bd-8513-46fd-9fc7-8126dbd5fe99"/>
 </section>
   
+
   <img id="seagull" width="560" height="396" alt="seagull" src="https://github.com/user-attachments/assets/f9bc7675-3bb5-49ca-a2dd-ed4fa0f71329" />
   <img id="dino" width="455" height="482" alt="dinosaur" src="https://github.com/user-attachments/assets/64aac121-27af-4f38-b561-6055c5b8f098"/>
 
