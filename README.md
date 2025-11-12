@@ -27,6 +27,7 @@
 </style>
  <img src ="https://github.com/user-attachments/assets/30875f9d-ba7d-491c-a2ba-957a7de99e75"/>
 <img src =""/>
+<img width="160" height="160" alt="tic-tac-toe" src="https://github.com/user-attachments/assets/b6dca21e-aece-45b1-82fb-6c74c2bd6cfe" />
 
 <img id="penguin" width="560"  height="400" alt="penguin" src ="https://github.com/user-attachments/assets/fd9429bd-8513-46fd-9fc7-8126dbd5fe99"/>
 </section>
